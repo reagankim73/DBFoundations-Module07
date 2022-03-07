@@ -14,3 +14,5 @@ On the other hand, a multi statement function is a table valued function with ma
 ##conclusion
 There are many ways to retrieve values or conditions from specific tables. 
 The way one retrieves this information all depends on the person’s understanding of different methods like a function.
+
+![Screenshot 2022-03-06 182451.png](https://github.com/reagankim73/DBFoundations-Module07/blob/main/Screenshot%202022-03-06%20182451.png)
